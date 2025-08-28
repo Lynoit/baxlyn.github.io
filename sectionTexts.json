@@ -1,0 +1,46 @@
+{
+  "metaContainer": {
+    "header": "Annotator Test Report",
+    "text":   "This report shows the result of the testing with the Annotator app. The app collects the annotations from the user and data collected from the device location service and the internet access."
+  },
+  "statsContainer": {
+    "header": "Route statistics",
+    "text":   "These statistics summarize total time, distance, speeds, and counts road features."
+  },
+  "logTableContainer": {
+    "header": "Issue Log",
+    "text":   "These are the issues annotated while driving. Each issue is equipped with data such as time-stamp, position, weather, distance, road type. All of these data is aqcuired from the device locationing system and the reverse geo-coding. The last entry in each row is the manual comment."
+  },
+  "snapshotContainer": {
+    "header": "Snapshots",
+    "text":   "Map with 100m radius plus an camera photo snap for each issue."
+  },
+  "countContainer": {
+    "header": "KPI Summary",
+    "text":   "Calculation of the KPI. This is done by calculating the number of KPI events according to the pre-defined button setup. The number of events and the number of events/1000km is presented in below table."
+  },
+  "mapContainer": {
+    "header": "Full Route map",
+    "text":   "Map showing the complete route, annotated with issue number markers."
+  },
+  "streetsContainer": {
+    "header": "Road Type distribution",
+    "text":   "Distance traveled on motorways, residential, unclassified, etc. Each road type is presented with the total distance in km, the percentage of the total distribution and the total number of issues."
+  },
+  "countryContainer": {
+    "header": "Country distribution",
+    "text":   "Distance traveled in specific countries. Each country is presented with the total distance in km, the percentage of the total distribution and the total number of issues."
+  },
+  "weatherContainer": {
+    "header": "Weather Conditions",
+    "text":   "Distance traveled in specific weathers. Each weather type is presented with the total distance in km, the percentage of the total distribution and the total number of issues."
+  },
+  "phaseContainer": {
+    "header": "Day Phases",
+    "text":   "Distance traveled in specific day phase. Each phase type is presented with the total distance in km, the percentage of the total distribution and the total number of issues."
+  },
+  "chartsContainer": {
+    "header": "Charts",
+    "text":   "Distance vs time and speed vs distance over the course of the run."
+  }
+}
